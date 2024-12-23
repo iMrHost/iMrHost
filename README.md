@@ -18,8 +18,11 @@ My interests include:
 
 ## Projects  
 Here are some highlights of my work:  
-- 🔗 [**Konx Bot**](#):  A powerful and versatile Discord bot designed to streamline server management. Features include advanced moderation tools, customizable commands, automated role assignment, and integration with external APIs for seamless functionality. 
-- 🔗 [**HelpFul Bot**](#): Comming Soon
+- 🔗 [**Konx Bot**](#):
+  - A powerful and versatile Discord bot designed to streamline server management.
+    Features include advanced moderation tools, customizable commands, automated role assignment, and integration with external APIs for seamless functionality. 
+- 🔗 [**HelpFul Bot**](#):
+  - Comming Soon
 
 ---
 
