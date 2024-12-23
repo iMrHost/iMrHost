@@ -26,9 +26,9 @@ Here are some highlights of my work:
 
 ## Contact Me  
 Feel free to reach out!  
-- 📫 Email: [Your Email](mailto:your.email@example.com)  
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-- 🌟 GitHub: [Your GitHub](https://github.com/iMrHost)  
+- 📫 Email: [Email](https://github.com/iMrHost)  
+- 💼 LinkedIn: [Profile](https://github.com/iMrHost)  
+- 🌟 GitHub: [GitHub](https://github.com/iMrHost)  
 
 ---
 
