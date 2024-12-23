@@ -12,15 +12,14 @@ My interests include:
 ## Skills  
 - **Programming Languages:** Python, JavaScript, C++, C#
 - **Web Technologies:** HTML, CSS, React.js, Node.js  
-- **AI/ML Tools:** TensorFlow, PyTorch
 - **Database Management:** MySQL.
 
 ---
 
 ## Projects  
 Here are some highlights of my work:  
-- 🔗 [**Konx Bot**](#): A brief description of the project and its key features.  
-- 🔗 [**HelpFul Bot**](#): Another brief description.  
+- 🔗 [**Konx Bot**](#):  A powerful and versatile Discord bot designed to streamline server management. Features include advanced moderation tools, customizable commands, automated role assignment, and integration with external APIs for seamless functionality. 
+- 🔗 [**HelpFul Bot**](#): Comming Soon
 
 ---
 
